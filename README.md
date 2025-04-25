@@ -28,12 +28,12 @@ Jupyter Notebook
 - Seleção de features relevantes
 
 3. Clusterização com K-Means
--Escolha do número ideal de clusters utilizando o método do cotovelo (elbow method)
--Treinamento do modelo e previsão dos grupos
+- Escolha do número ideal de clusters utilizando o método do cotovelo (elbow method)
+- Treinamento do modelo e previsão dos grupos
 
 4.Análise dos clusters
--Visualização gráfica dos agrupamentos
--Interpretação dos perfis de cada cluster
+- Visualização gráfica dos agrupamentos
+- Interpretação dos perfis de cada cluster
 
 📁 Organização do Repositório
 
