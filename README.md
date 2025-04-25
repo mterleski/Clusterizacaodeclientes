@@ -20,7 +20,7 @@ Jupyter Notebook
 📊 Etapas do Projeto
 
 1. Importação e exploração dos dados
-Carregamento do dataset e análise exploratória inicial.
+- Carregamento do dataset e análise exploratória inicial.
 
 2. Pré-processamento
 - Tratamento de dados nulos
