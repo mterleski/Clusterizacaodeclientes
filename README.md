@@ -37,9 +37,10 @@ Jupyter Notebook
 
 📁 Organização do Repositório
 
--Clusterização_de_clientes.ipynb — notebook com todo o processo de clusterização
--README.md — este arquivo de documentação
--Mall_Customers.csv - base de dados
+- Clusterização_de_clientes.ipynb — notebook com todo o processo de clusterização
+- README.md — este arquivo de documentação
+- Mall_Customers.csv - base de dados
 
 🚀 Resultados
+
 A clusterização permitiu identificar diferentes perfis de clientes, agrupando-os com base em padrões semelhantes de comportamento. Esses insights podem ser utilizados para ações mais direcionadas, como ofertas personalizadas, retenção de clientes ou campanhas específicas para cada grupo.
