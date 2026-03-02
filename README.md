@@ -1,4 +1,4 @@
-🧠 Clusterização de Clientes
+# 🧠 Clusterização de Clientes
 
 Este projeto tem como objetivo aplicar técnicas de Machine Learning não supervisionado para segmentar clientes com base em características comportamentais e demográficas. A clusterização permite identificar perfis distintos de consumidores, possibilitando estratégias de marketing mais personalizadas e eficientes.
 
@@ -31,7 +31,7 @@ Jupyter Notebook
 - Escolha do número ideal de clusters utilizando o método do cotovelo (elbow method)
 - Treinamento do modelo e previsão dos grupos
 
-4.Análise dos clusters
+4. Análise dos clusters
 - Visualização gráfica dos agrupamentos
 - Interpretação dos perfis de cada cluster
 
